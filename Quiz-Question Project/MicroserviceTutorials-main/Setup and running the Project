@@ -1,0 +1,10 @@
+Steps To setup and run the project : 
+
+
+Step 1. Open microservice tutorial in eclipse
+Step 2. Go to pgAdmin4 (Postgres Database) and run the quesries for creating question database and quiz database
+Step 3. Go to pgAdmin4 in respective databases and run the queries for tables (already uploaded in github) in respective databases.
+Step 4. Go to Postman and hit the URL's according to controller and request involved.
+
+
+Happy and set.

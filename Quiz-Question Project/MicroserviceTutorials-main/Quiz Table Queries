@@ -1,0 +1,14 @@
+quiz table queries : 
+
+
+
+	CREATE TABLE quiz (
+    id SERIAL PRIMARY KEY,
+    title VARCHAR(255)
+); 
+
+
+CREATE TABLE quiz_question_ids (
+    quiz_id INTEGER NOT NULL,
+    question_ids INTEGER
+);
